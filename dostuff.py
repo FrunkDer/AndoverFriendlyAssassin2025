@@ -11,8 +11,7 @@ emailscores(note)
 #You can find an example here: https://www.youtube.com/watch?v=VGpwaS2s7jQ'''
 #meow.STARTTASK(task)
 
-meow.addscore("Evie", "Lagrandeur", 6)
+#meow.addscore("Ophelia", "Lee", 6)
 
-#note = '''Hope y'all are doing well going into penultimate week -- we're all in this together!
-#Just to plug merch one more time, you can purchase at andover2026.printful.me!'''
+#note = '''Thanks for the enthusiasm y'all put into the dances! Before I send out the next task, PLEASE EMAIL ME with SUGGESTIONS for future tasks! (I'm running low on ideas)'''
 #meow.emailscores(note)
