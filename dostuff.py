@@ -7,9 +7,9 @@ addscore(first, last, place)
 emailscores(note)
 '''
 
-#task = '''For your third task, take a video of the 'Wait, they don't love me like I love you song'.
-#You can find an example here: https://www.youtube.com/watch?v=VGpwaS2s7jQ'''
-#meow.STARTTASK(task)
+task = '''For your fourth task, take a picture with your partner and one of our class advisors, Char!
+Hint: She's usually in CAMD.'''
+meow.STARTTASK(task)
 
 #meow.addscore("Ophelia", "Lee", 6)
 
