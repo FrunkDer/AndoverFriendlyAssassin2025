@@ -1,6 +1,7 @@
 import win32com.client
 import csv
 import random
+import time
 
 outlook = win32com.client.Dispatch("Outlook.Application")
 
@@ -54,6 +55,7 @@ def sendmessage(row, task):
     mail.Subject = "FRIENDLY ASSASSIN ASSIGNMENT"
     mail.Body = message
     mail.Send()
+    time.sleep(2)
 
     message = f'''Hi {row[1]},
     Your partner will be {row[0]}. 
@@ -69,6 +71,7 @@ def sendmessage(row, task):
     mail.Subject = "FRIENDLY ASSASSIN ASSIGNMENT"
     mail.Body = message
     mail.Send()
+    time.sleep(2)
     
 def STARTTASK(task):
     pairs = makepairs()
@@ -140,6 +143,7 @@ Frank
     mail.Subject = "LEADERBOARD UPDATE"
     mail.Body = message
     mail.Send()
+    time.sleep(2)
     print("Email Sent Successfully")
 
 
