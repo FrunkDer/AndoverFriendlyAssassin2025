@@ -11,7 +11,7 @@ emailscores(note)
 #Hint: She's usually in CAMD.'''
 #meow.STARTTASK(task)
 
-#meow.addscore("Ophelia", "Lee", 6)
+meow.addscore("Anny", "Wang", 1)
 
 #note = '''Thanks for the enthusiasm y'all put into the dances! Before I send out the next task, PLEASE EMAIL ME with SUGGESTIONS for future tasks! (I'm running low on ideas)'''
 #meow.emailscores(note)
