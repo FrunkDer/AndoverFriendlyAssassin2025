@@ -7,13 +7,12 @@ addscore(first, last, place)
 emailscores(note)
 '''
 
-#task = '''For your fourth task, take a picture with your partner and one of our class advisors, Char!
-#Hint: She's usually in CAMD.'''
-#meow.STARTTASK(task)
+task = '''For your last task of Winter term, take a video of you dapping your partner up. Best dap wins +5 extra points!'''
+meow.STARTTASK(task)
 
 #meow.addscore("Anaya", "Qamar", 5)
 
-#note = '''Thanks for the enthusiasm y'all put into the dances! Before I send out the next task, PLEASE EMAIL ME with SUGGESTIONS for future tasks! (I'm running low on ideas)'''
+#note = '''Good luck on finals guys!! We'll have one more friendly assassin challenge for this term.'''
 #meow.emailscores(note)
 
 #meow.emailpair(task)
